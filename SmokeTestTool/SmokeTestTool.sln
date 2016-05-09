@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmokeTestTool", "SmokeTestTool.csproj", "{1FF7DC75-2FB1-47CB-8D81-5556FE2A5518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp1", "..\WebApp1\WebApp1.csproj", "{397A8F4A-0C1E-480E-B6BE-7EE76A9DC17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp2", "..\WebApp2\WebApp2.csproj", "{6DF8BFB5-19FB-4330-BE7D-39E71FFA9576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FF7DC75-2FB1-47CB-8D81-5556FE2A5518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FF7DC75-2FB1-47CB-8D81-5556FE2A5518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FF7DC75-2FB1-47CB-8D81-5556FE2A5518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FF7DC75-2FB1-47CB-8D81-5556FE2A5518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{397A8F4A-0C1E-480E-B6BE-7EE76A9DC17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{397A8F4A-0C1E-480E-B6BE-7EE76A9DC17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{397A8F4A-0C1E-480E-B6BE-7EE76A9DC17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{397A8F4A-0C1E-480E-B6BE-7EE76A9DC17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF8BFB5-19FB-4330-BE7D-39E71FFA9576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF8BFB5-19FB-4330-BE7D-39E71FFA9576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF8BFB5-19FB-4330-BE7D-39E71FFA9576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF8BFB5-19FB-4330-BE7D-39E71FFA9576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
